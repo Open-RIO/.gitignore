@@ -1,0 +1,2 @@
+# .gitignore
+STOP POSTING YOUR FRC BINARIES
