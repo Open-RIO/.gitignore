@@ -19,6 +19,7 @@ tmp/
 # Toast/GradleRIO
 run/
 .gradle/
+gradle/.launch/
 
 # OS Files
 .DS_Store
