@@ -33,3 +33,8 @@ gradle/.launch/
 ehthumbs.db
 Thumbs.db
 
+# backup files
+*~
+
+# directory for XML generated after running junit tests through ant
+junit/
