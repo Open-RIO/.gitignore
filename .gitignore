@@ -21,6 +21,7 @@ tmp/
 run/
 .gradle/
 gradle/.launch/
+modules/*.jar
 
 # OS Files
 .DS_Store
